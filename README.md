@@ -1,5 +1,5 @@
 # Pig Latin Translator
-En este proyecto desarrollé un traductor para convertir cualquier idioma a [Pig Latin](https://en.wikipedia.org/wiki/Pig_Latin).
+En este proyecto desarrollé un traductor para convertir cualquier idioma a [Pig Latin](https://en.wikipedia.org/wiki/Pig_Latin){:target="_blank"}.
 
 QUÉ? PIG LATIN? Qué carajos? Pues sí. Resulta que navegando por la red me encontré este artículo de Wikipedia sobre el [Pig Latin](https://en.wikipedia.org/wiki/Pig_Latin). Básicamente el Pig Latin consiste en sustraer la primera letra de una palabra y añadirle el sufijo "ay" y colocar ese nuevo string al final de la palabra:
 
