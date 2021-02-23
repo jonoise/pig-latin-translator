@@ -12,3 +12,17 @@ QUÉ? PIG LATIN? Qué carajos? Pues sí. Resulta que navegando por la red me enc
 Originalmente el Pig Latin es un idioma inventado por angloparlantes por lo que tiene mejor musicalidad cuando se traduce desde el Inglés, pero usándolo con frases en español también combina muy bien. 
 
 onCay steeay rogramapay ayay uedenpay ablarhay omocay oslay erdoscay ueqay onsay ajajajay    
+
+# Instalación
+
+* Clona el repo:
+```
+$ git clone https://github.com/soloamilkar/pig-latin-translator
+```
+
+* Haz el llamado a la función de_humano_a_pig_latin() con un string de texto dentro y corre el programa.
+```python
+de_humano_a_pig_latin("Este es mi texto en español, para ser traducido a pig latin")
+```
+
+* También hice una función para traducir de pig latin a humano. Voy a convertirlo en un programa que acepte argvs para ejecutarlo desde la terminal.
