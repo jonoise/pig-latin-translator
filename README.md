@@ -11,4 +11,4 @@ QUÉ? PIG LATIN? Qué carajos? Pues sí. Resulta que navegando por la red me enc
 
 Originalmente el Pig Latin es un idioma inventado por angloparlantes por lo que tiene mejor musicalidad cuando se traduce desde el Inglés, pero usándolo con frases en español también combina muy bien. 
 
-onCay steeay rogramapay ayay uedenpay ablarhay omocay oslay erdoscay ueqay onsay
+onCay steeay rogramapay ayay uedenpay ablarhay omocay oslay erdoscay ueqay onsay ajajajay    
